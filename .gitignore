@@ -42,3 +42,5 @@ log/
 node_modules/
 
 .eslintcache
+temp_auto_push.bat
+temp_interactive_push.bat
